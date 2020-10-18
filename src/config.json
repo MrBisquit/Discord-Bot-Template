@@ -1,0 +1,6 @@
+{
+    "BotName" : "YourBotNameHere",
+    "BotToken" : "YourBotTokenHere",
+    "BotVersion": "1.0.0",
+    "prefix" : "TheThingPeopleTypeBeforeTheCommand"
+}
