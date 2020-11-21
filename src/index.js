@@ -38,7 +38,7 @@ client.on("message", async message => {
   .addFields(
     { name: 'Version', value: `${config.BotVersion}`, inline: true },
     //{ name: '\u200B', value: '\u200B' },
-    { name: 'Prefix', value: `${config.BotPrefix}`, inline: true },
+    { name: 'Prefix', value: `${config.prefix}`, inline: true },
 )
   .setDescription(`About ${config.BotName}`)
   .setThumbnail('')
