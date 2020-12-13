@@ -1,6 +1,6 @@
-## Discord Bot Template V1.0.0 - stable! Tutorial!
+## Discord Bot Template!
 
-### V1.0.0 tutorial
+# V1.0.0 tutorial
 
 ## Welcome to the tutorial!
 # 1) You want to copy the template by clicking clone.
