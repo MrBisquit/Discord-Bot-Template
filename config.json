@@ -1,6 +1,10 @@
 {
     "BotName" : "YourBotNameHere",
     "BotToken" : "YourBotTokenHere",
-    "BotVersion": "1.0.0",
-    "prefix" : "TheThingPeopleTypeBeforeTheCommand"
+    "BotVersion": "1.0.1",
+    "prefix" : "TheThingPeopleTypeBeforeTheCommand",
+    "About" : {
+        "title" : "",
+        "desc" : ""
+    }
 }
