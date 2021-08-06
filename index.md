@@ -14,8 +14,8 @@ V1.0.0 tutorial
 
 ### Documentation and improvements:
 ## v12
-# [Improvements](https://mrbisquit.github.io/v12/improvements/)
-# [Docs](https://mrbisquit.github.io/v12/docs/)
+# [Improvements](https://mrbisquit.github.io/Discord-Bot-Template/v12/improvements/)
+# [Docs](https://mrbisquit.github.io/Discord-Bot-Template/v12/docs/)
 ## v13
 ## Improvements Comming soon...
 ## Docs Comming soon...
