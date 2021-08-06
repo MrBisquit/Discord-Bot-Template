@@ -11,3 +11,11 @@ V1.0.0 tutorial
 # 6) To get your bot running all you need to do is go to https://discordapi.com/permissions.html#2146958847 and enter your client id from the main page on discord.com/developers.
 # 7) Click on the link at the bottom and add your bot to your server.
 # 8) To get your bot working you need Node.js https://www.nodejs.org. And open up your command prompt inside of the bot folder and type node index.js or node .
+
+### Documentation and improvements:
+## v12
+# Improvenments https://mrbisquit.github.io/v12/improvements/
+# Docs https://mrbisquit.github.io/v12/docs/
+## v13
+## Improvements Comming soon...
+## Docs Comming soon...
