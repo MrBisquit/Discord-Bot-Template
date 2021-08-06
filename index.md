@@ -14,7 +14,7 @@ V1.0.0 tutorial
 
 ### Documentation and improvements:
 ## v12
-# [Improvenments](https://mrbisquit.github.io/v12/improvements/)
+# [Improvements](https://mrbisquit.github.io/v12/improvements/)
 # [Docs](https://mrbisquit.github.io/v12/docs/)
 ## v13
 ## Improvements Comming soon...
